@@ -1,7 +1,7 @@
 
-# CodSoft Web Development Internship - Task 3
+# CALCULATOR
 
-his repository contains a simple calculator project developed using HTML, CSS, and JavaScript, created as part of my internship at Codsoft.
+his repository contains a simple calculator project developed using HTML, CSS, and JavaScript.
 
 ## Overview
 This calculator is a web-based application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface for users to input numbers and perform calculations with ease.
@@ -28,4 +28,3 @@ git clone gh repo clone HariR1893/CODSOFT-WEB-DEVELOPMENT.git
 cd TASK3_CALCULATOR
 npm install
 ```
-Feel free to explore and customize this project as you see fit. It's a great way to gain practical experience in web development during your internship at Codsoft!
